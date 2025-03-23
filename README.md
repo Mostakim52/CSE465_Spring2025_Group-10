@@ -36,10 +36,8 @@ The augmented dataset is stored inside the `Augmented Data` folder, along with l
 
 ## 📊 Confusion Matrix
 ```
-![image](https://github.com/user-attachments/assets/069e503f-0306-4e1b-b019-17d08e30cc89)
-![image](https://github.com/user-attachments/assets/8c2ce2e0-edc4-4244-a701-98c21d175fba)
-
-
+![Confusion Matrix](https://github.com/user-attachments/assets/e53d108e-5198-442e-9d27-51b536be7388)
+![Performance Metrics](https://github.com/user-attachments/assets/f05e4a5f-4577-4e5d-aa7f-2cf53e740b35)
 ```
 
 ## 📂 Repository Structure
