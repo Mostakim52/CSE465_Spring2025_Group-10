@@ -4,9 +4,9 @@
 
 | Team Member | Contribution |
 |-------------|-------------|
-| Member 1    | Data Preprocessing |
-| Member 2    | Augmentation, Model Development & Training |
-| Member 3    | Evaluation |
+| Mostakim Hossain    | Data Preprocessing |
+| Tasnim Fardaus    | Augmentation, Model Development & Training |
+| Anindita Das Mishi   | Evaluation |
 
 ---
 
