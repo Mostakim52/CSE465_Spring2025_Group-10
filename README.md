@@ -32,26 +32,12 @@ The augmented dataset is stored inside the `Augmented Data` folder, along with l
 | 5    | 0.9569   | 0.9574     | 0.9569 | 0.9567   |
 | **Average** | **0.8963** | **0.8989** | **0.8963** | **0.8961** |
 
----
 
 ## 📊 Confusion Matrix
 ```
 ![Confusion Matrix](https://github.com/user-attachments/assets/e53d108e-5198-442e-9d27-51b536be7388)
 ![Performance Metrics](https://github.com/user-attachments/assets/f05e4a5f-4577-4e5d-aa7f-2cf53e740b35)
 ```
-
-## 📂 Repository Structure
-```
-📦 Project Repository
-├── 📁 Augmented Data   # Augmented dataset & labels
-├── 📄 train.ipynb      # Training notebook
-├── 📄 model.h5         # Saved trained model
-├── 📄 test_script.py   # Prediction script using the trained model
-├── 📄 Network.jpg      # Block diagram of the neural network
-├── 📄 README.md        # Project documentation
-```
-
----
 
 3️⃣ **Modify `test_script.py` to input new text samples.**
 
