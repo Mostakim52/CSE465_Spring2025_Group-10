@@ -6,7 +6,7 @@
 |-------------|-------------|
 | Mostakim Hossain    | Data Preprocessing |
 | Tasnim Fardaus    | Augmentation, Model Development & Training |
-| Anindita Das Mishi   | Evaluation |
+| Anindita Das Mishi   | Evaluation and Network Image |
 
 ---
 
