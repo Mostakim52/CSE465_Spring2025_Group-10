@@ -34,10 +34,10 @@ The augmented dataset is stored inside the `Augmented Data` folder, along with l
 
 
 ## 📊 Confusion Matrix
-```
-![Confusion Matrix](https://github.com/user-attachments/assets/e53d108e-5198-442e-9d27-51b536be7388)
-![Performance Metrics](https://github.com/user-attachments/assets/f05e4a5f-4577-4e5d-aa7f-2cf53e740b35)
-```
+
+![Confusion Matrix](Figures/Confusion_Matrix.png)
+![Performance Metrics](Figures/Performance_Metrics.png)
+
 
 3️⃣ **Modify `test_script.py` to input new text samples.**
 
