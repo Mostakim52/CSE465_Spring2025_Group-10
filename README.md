@@ -1,4 +1,4 @@
-# RNN Text Classification
+# RNN Law Based Model
 
 ## 📌 Team Contribution Table
 
@@ -44,5 +44,5 @@ The augmented dataset is stored inside the `Augmented Data` folder, along with l
 ---
 
 ### 🎯 Conclusion
-The RNN model achieved an **average accuracy of 95.79%** using 5-fold cross-validation, demonstrating strong performance in text classification.
+The RNN model achieved an **average accuracy of 90.64%** using 5-fold cross-validation, demonstrating strong performance in text classification.
 
