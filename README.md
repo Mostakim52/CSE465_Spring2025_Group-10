@@ -21,7 +21,7 @@ The augmented dataset is stored inside the `Augmented Data` folder, along with l
 
 ---
 
-## 📊 Final Results (5-Fold Cross-Validation)
+## 📊 RNN Results (5-Fold Cross-Validation)
 
 | Fold | Accuracy | Precision | Recall | F1 Score |
 |------|----------|------------|--------|----------|
@@ -43,6 +43,44 @@ The augmented dataset is stored inside the `Augmented Data` folder, along with l
 
 ---
 
+## 🤖 BERT Model Evaluation
+
+As an extension of our work, we experimented with a fine-tuned **BERT-based model**, which achieved an impressive accuracy of **99%** on the same legal claim classification task.
+
+📌 **How to Test the BERT Model:**
+1. Install the required Python libraries manually:
+   ```
+      !pip install transformers
+      !pip install tensorflow
+   ```
+      
+3. Navigate to: ```Phase 2/Testing Bert Model/```
+4. Run the script: ```python testing_Bert.py```
+5. Sample data can be found at ```Phase 2/Sample Data/```
+
+
+📈 **BERT Model Results**:
+- Accuracy: **99%**
+- Confusion Matrix:
+
+![BERT Confusion Matrix](Figures/BERT_Confusion_Matrix.png)  
+
+- Network Diagram:
+![BERT Network Diagram](<Phase 2/Bert_Model_Network.PNG>)
+
+## 📊 BERT Results
+
+| Accuracy | Precision | Recall | F1 Score |
+|----------|------------|--------|----------|
+| 0.99   | 0.99    | 0.98 | 0.98   |
+
+
+This demonstrates that transformer-based models like BERT are highly effective for this domain.
+
+---
+
+
 ### 🎯 Conclusion
 The RNN model achieved an **average accuracy of 90.64%** using 5-fold cross-validation, demonstrating strong performance in text classification.
+However, our BERT Model acheived **average accuracy of 99%**.
 
