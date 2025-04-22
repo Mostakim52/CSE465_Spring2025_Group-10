@@ -66,7 +66,7 @@ As an extension of our work, we experimented with a fine-tuned **BERT-based mode
 ![BERT Confusion Matrix](Figures/BERT_Confusion_Matrix.png)  
 
 - Network Diagram:
-![BERT Network Diagram](<Phase 2/Bert_Model_Network.PNG>)
+![BERT Network Diagram](<Final Project/Bert_Model_Network.PNG>)
 
 ## 📊 BERT Results
 
