@@ -82,5 +82,6 @@ This demonstrates that transformer-based models like BERT are highly effective f
 
 ### 🎯 Conclusion
 The RNN model achieved an **average accuracy of 90.64%** using 5-fold cross-validation, demonstrating strong performance in text classification.
-However, our BERT Model acheived **average accuracy of 99%**.
+However, our BERT Model acheived **average accuracy of 99%**.<br>
+A detailed project report can be found at Wikis Section.
 
